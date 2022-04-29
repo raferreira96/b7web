@@ -2,10 +2,10 @@
 
 Repositório de exercícios, desafios e projetos realizados da plataforma [B7WEB](https://www.b7web.com.br).
 
-## Módulos
+## Cursos
 
 - **HTML/CSS:**
-    - [Teste]()
+    - [Flexbox](https://github.com/raferreira96/b7web/html-css/flexbox)
 - **JavaScript:**
     - [Teste]()
 - **PHP:**
